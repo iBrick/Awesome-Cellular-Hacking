@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T22:53:14.639Z" agent="5.0 (Windows)" etag="9mUmYxCYr8loHdkE9_ET" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T22:55:22.496Z" agent="5.0 (Windows)" etag="YGZ1UM44H4Dx-__Aan2Y" version="14.3.0" type="github">
   <diagram id="UfvzvBY-8uDOD2xJlfd_" name="Page-1">
     <mxGraphModel dx="1240" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -591,6 +591,24 @@
         </mxCell>
         <mxCell id="-bEd97YxeEwS5Az2jaos-216" value="&lt;div&gt;Датчик &lt;br&gt;&lt;/div&gt;&lt;div&gt;(настройки по умолчанию до активации в сети)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="30" y="190" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-bEd97YxeEwS5Az2jaos-217" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="256" y="130" as="sourcePoint" />
+            <mxPoint x="520" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bEd97YxeEwS5Az2jaos-218" value="Join Accept (подтверждение активации, передача настроек для работы в сети)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-bEd97YxeEwS5Az2jaos-219" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="238.57" as="sourcePoint" />
+            <mxPoint x="260" y="238.57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-bEd97YxeEwS5Az2jaos-220" value="Join Request (запрос на активацию в сети)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="95" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
